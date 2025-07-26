@@ -7,7 +7,7 @@ This project is part of the Prodigy InfoTech Data Science Internship. The task f
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
 
 🗂️ Dataset Used
-Dataset Source: Prodigy InfoTech - Task 2 Dataset
+Dataset Source: [Prodigy InfoTech](https://github.com/Prodigy-InfoTech) - Task 2 Dataset
 Type: Titanic dataset (CSV format)
 Features: Passenger details like age, class, sex, survival status, fare, etc.
 
