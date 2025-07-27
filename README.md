@@ -4,7 +4,7 @@
 This project is part of the Prodigy InfoTech Data Science Internship. The task focuses on performing Data Cleaning and Exploratory Data Analysis (EDA) on a dataset of choice. The goal is to understand the data, clean and preprocess it, explore relationships between features, and identify patterns, trends, or insights.
 
 📂 Task Description
-Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
+> Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
 
 🗂️ Dataset Used
 Dataset Source: [Prodigy InfoTech](https://github.com/Prodigy-InfoTech) - Task 2 Dataset
